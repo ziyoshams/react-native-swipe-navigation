@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "jest": "^22.0.4",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react-native-extra-dimensions-android": "^0.22.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
